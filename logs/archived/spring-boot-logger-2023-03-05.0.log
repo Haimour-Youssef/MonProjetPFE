@@ -1,0 +1,145 @@
+2023-03-05 13:20:46,866 INFO org.springframework.boot.StartupInfoLogger [main] Starting PFEAplication using Java 19.0.1 on DESKTOP-6POCFKH with PID 11040 (F:\MonProjetPFE\target\classes started by Achchamakmaki in F:\MonProjetPFE)
+2023-03-05 13:20:46,880 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2023-03-05 13:20:46,880 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: dev
+2023-03-05 13:20:47,824 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-05 13:20:47,840 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 12 ms. Found 0 JPA repository interfaces.
+2023-03-05 13:20:48,927 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8088 (http)
+2023-03-05 13:20:48,958 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:20:48,958 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-05 13:20:48,958 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-03-05 13:20:49,080 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-05 13:20:49,080 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2123 ms
+2023-03-05 13:20:49,343 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-05 13:20:49,813 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-05 13:20:49,891 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-05 13:20:49,960 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2023-03-05 13:20:50,199 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-03-05 13:20:50,330 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2023-03-05 13:20:51,048 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-05 13:20:51,063 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 13:20:51,132 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-05 13:20:51,602 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:20:51,618 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8088 (http) with context path ''
+2023-03-05 13:20:51,649 INFO org.springframework.boot.StartupInfoLogger [main] Started PFEAplication in 5.451 seconds (JVM running for 6.376)
+2023-03-05 13:30:14,369 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 13:30:14,385 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-05 13:30:14,401 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-05 13:30:20,462 INFO org.springframework.boot.StartupInfoLogger [main] Starting PFEAplication using Java 19.0.1 on DESKTOP-6POCFKH with PID 25700 (F:\MonProjetPFE\target\classes started by Achchamakmaki in F:\MonProjetPFE)
+2023-03-05 13:30:20,462 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2023-03-05 13:30:20,462 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: local
+2023-03-05 13:30:21,582 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-05 13:30:21,614 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 12 ms. Found 0 JPA repository interfaces.
+2023-03-05 13:30:22,685 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8088 (http)
+2023-03-05 13:30:22,717 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:30:22,717 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-05 13:30:22,717 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-03-05 13:30:22,855 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-05 13:30:22,855 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2292 ms
+2023-03-05 13:30:23,155 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-05 13:30:23,641 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-05 13:30:23,726 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-05 13:30:23,804 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2023-03-05 13:30:24,073 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-03-05 13:30:24,220 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2023-03-05 13:30:25,076 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-05 13:30:25,091 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 13:30:25,191 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-05 13:30:25,762 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:30:25,793 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8088 (http) with context path ''
+2023-03-05 13:30:25,809 INFO org.springframework.boot.StartupInfoLogger [main] Started PFEAplication in 6.131 seconds (JVM running for 7.189)
+2023-03-05 13:37:46,175 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-05 13:37:46,176 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8088-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-05 13:37:46,179 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8088-exec-1] Completed initialization in 3 ms
+2023-03-05 13:37:46,202 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8088-exec-1] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2023-03-05 13:38:31,658 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8088-exec-3] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2023-03-05 13:40:02,890 DEBUG ma.geo.local.conrollers.StudentController [http-nio-8088-exec-6] start method create
+2023-03-05 13:40:02,890 DEBUG ma.geo.local.services.StudentServiceImpl [http-nio-8088-exec-6] start methode create
+2023-03-05 13:40:02,900 ERROR org.apache.juli.logging.DirectJDKLog [http-nio-8088-exec-6] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "ma.geo.local.services.StudentService.create(ma.geo.local.dtos.StudentDtos)" because "this.service" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "ma.geo.local.services.StudentService.create(ma.geo.local.dtos.StudentDtos)" because "this.service" is null
+	at ma.geo.local.services.StudentServiceImpl.create(StudentServiceImpl.java:20)
+	at ma.geo.local.conrollers.StudentController.save(StudentController.java:24)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1722)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+2023-03-05 13:43:02,917 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 13:43:02,920 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-05 13:43:02,931 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.
+2023-03-05 13:43:10,595 INFO org.springframework.boot.StartupInfoLogger [main] Starting PFEAplication using Java 19.0.1 on DESKTOP-6POCFKH with PID 25592 (F:\MonProjetPFE\target\classes started by Achchamakmaki in F:\MonProjetPFE)
+2023-03-05 13:43:10,600 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.5.6, Spring v5.3.12
+2023-03-05 13:43:10,600 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: local
+2023-03-05 13:43:11,950 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-03-05 13:43:11,984 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 15 ms. Found 0 JPA repository interfaces.
+2023-03-05 13:43:13,111 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8088 (http)
+2023-03-05 13:43:13,131 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:43:13,132 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2023-03-05 13:43:13,133 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.54]
+2023-03-05 13:43:13,284 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2023-03-05 13:43:13,284 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2582 ms
+2023-03-05 13:43:13,574 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2023-03-05 13:43:14,102 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2023-03-05 13:43:14,184 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-03-05 13:43:14,269 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.4.32.Final
+2023-03-05 13:43:14,518 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-03-05 13:43:14,683 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL57Dialect
+2023-03-05 13:43:15,558 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-03-05 13:43:15,571 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 13:43:15,706 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-03-05 13:43:16,257 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8088"]
+2023-03-05 13:43:16,291 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8088 (http) with context path ''
+2023-03-05 13:43:16,307 INFO org.springframework.boot.StartupInfoLogger [main] Started PFEAplication in 6.539 seconds (JVM running for 7.62)
+2023-03-05 13:43:24,441 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8088-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-03-05 13:43:24,441 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8088-exec-1] Initializing Servlet 'dispatcherServlet'
+2023-03-05 13:43:24,443 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8088-exec-1] Completed initialization in 2 ms
+2023-03-05 13:43:24,697 DEBUG ma.geo.local.conrollers.StudentController [http-nio-8088-exec-1] start method create
+2023-03-05 13:43:24,698 DEBUG ma.geo.local.services.StudentServiceImpl [http-nio-8088-exec-1] start methode create
+2023-03-05 13:43:24,719 DEBUG ma.geo.local.repositories.StudentRepositoryIml [http-nio-8088-exec-1] start methode create
+2023-03-05 13:43:24,719 DEBUG ma.geo.local.conrollers.StudentController [http-nio-8088-exec-1] end method create
+2023-03-05 22:20:18,977 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h28m34s650ms513µs400ns).
+2023-03-05 22:21:24,319 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [SpringApplicationShutdownHook] Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-03-05 22:21:24,319 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown initiated...
+2023-03-05 22:21:24,335 INFO com.zaxxer.hikari.HikariDataSource [SpringApplicationShutdownHook] HikariPool-1 - Shutdown completed.

@@ -1,4 +1,4 @@
-package ma.geo.local.repositories.entities;
+package ma.geo.local.entities;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
